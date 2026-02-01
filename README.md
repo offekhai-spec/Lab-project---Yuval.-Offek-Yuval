@@ -1,7 +1,5 @@
 # Lab-project---Yuval.-Offek-Yuval
 
-# Lab-project---Yuval.-Offek-Yuval
-
 Our project is a tool for Airbnb hosts, used to find the optimal price in order to maximize host revenue based on data analysis, seasonality factors and property details.
 
 ## How to run
